@@ -63,6 +63,7 @@ About Euclidean sequences:
 Euclidean rhythms are calculated using advanced calculations, but these calculations are not performed in the program. If you limit it to 16 steps, there are only 17 rhythm patterns (0 hits to 16 hits), so the rhythm patterns are stored in a table.
 
 const static byte euc16[17][16] PROGMEM = {//euclidian rythm
+
  {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
  {1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
  {1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0},
