@@ -1,4 +1,6 @@
 # Euclidean-Rhythm-Sequencer
+![eucledian](https://github.com/user-attachments/assets/8744ffaa-ce4c-4743-8015-d6ab0818bc85)
+
 Building-Your-Own-Modular-Synth
 Euclidean Rhythm Sequencer for 800 Yen - Building Your Own Modular Synth
 Header image
